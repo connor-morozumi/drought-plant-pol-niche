@@ -14,9 +14,9 @@ This repository contains all code for Morozumi et al. 2022 manuscript investigat
 # Data
 This repository contains three datasets
 
-total visits per site per year by each pollinator taxa: `visitation.csv`
-floral abundance: `floral.abundance.csv`
-weather data from the Gothic field station: `gothicweather.csv`
++ total visits per site per year by each pollinator taxa: `visitation.csv`
++ floral abundance: `floral.abundance.csv`
++ weather data from the Gothic field station: `gothicweather.csv`
 
 # Code Overview
 We've combined all analyses for the paper into one R Notebook titled `Drought.web.Rmd`. This consists of:
